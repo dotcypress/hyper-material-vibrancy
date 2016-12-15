@@ -1,6 +1,6 @@
-# hyper-material
+# hyper-material-vibrancy
 
-Material theme for [Hyper.app](https://hyper.is).
+Material theme for [Hyper](https://hyper.is).
 
 <img width="640" alt="hyper-material" src="https://cloud.githubusercontent.com/assets/1333916/21167023/63bc12ac-c15e-11e6-8694-c3a1b5c4afa6.png">
 
@@ -17,7 +17,7 @@ plugins: [
   //   `@company/project`
   //   `project#1.0.1`
   plugins: [
-    'hyper-material'
+    'hyper-material-vibrancy'
   ]
 ]
 ```
