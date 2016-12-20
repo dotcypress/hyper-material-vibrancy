@@ -35,6 +35,13 @@ exports.decorateConfig = (config) => {
         box-sizing: content-box !important;
         mix-blend-mode: difference;
       }
+      ::-webkit-scrollbar {
+        width: 7px;
+      }
+      ::-webkit-scrollbar-thumb {
+        border-radius: 3.5px;
+        background-color: rgba(236, 239, 241, 0.4);
+      }
     `,
     css: `
       ${config.css || ''}
