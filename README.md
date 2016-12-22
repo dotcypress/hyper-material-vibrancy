@@ -6,7 +6,7 @@ Material theme for [Hyper](https://hyper.is).
 
 ## Install
 
-Add `hyper-material` to your plugins list in `~/.hyperterm.js`:
+Add `hyper-material-vibrancy` to your plugins list in `~/.hyperterm.js`:
 
 ```js
 plugins: [
